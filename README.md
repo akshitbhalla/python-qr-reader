@@ -2,6 +2,8 @@
 
 This is a QR code reader using Python for an integrated/external camera module.
 
+![Hello :)](http://cdnqrcgde.s3-eu-west-1.amazonaws.com/wp-content/uploads/2013/11/jpeg.jpg)
+
 <!-- ![Twitter](https://www.shareicon.net/data/256x256/2017/02/24/879396_logo_512x512.png)
 
 Video:
